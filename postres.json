@@ -5,7 +5,7 @@
       "stock":"35",
       "precio":"5.00",
       "url":"torta-de-chocolate",
-      "img":"tc.jpg",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/tc.jpg",
       "fecha":"2019-06-17 15:56:23"
    },
    {
@@ -14,7 +14,7 @@
       "stock":"45",
       "precio":"4.50",
       "url":"pie-de-manzana",
-      "img":"pm.jpg",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/pm.jpg",
       "fecha":"2018-08-11 16:25:33"
    },
    {
@@ -23,7 +23,7 @@
       "stock":"36",
       "precio":"2.50",
       "url":"arroz-con-leche",
-      "img":"al.jpg",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/al.jpg",
       "fecha":"2018-08-11 16:25:36"
    },
    {
@@ -32,7 +32,7 @@
       "stock":"60",
       "precio":"1.50",
       "url":"gelatina-de-fresa",
-      "img":"gf.jpg",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/gf.jpg",
       "fecha":"2018-08-11 16:25:39"
    },
    {
@@ -41,7 +41,7 @@
       "stock":"26",
       "precio":"6.00",
       "url":"suspiro-a-la-limeña",
-      "img":"sl.jpg",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/sl.jpg",
       "fecha":"2019-06-17 15:58:43"
    },
    {
@@ -50,7 +50,7 @@
       "stock":"50",
       "precio":"3.00",
       "url":"mazamorra-morada",
-      "img":"mm.png",
+      "img":"https://raw.githubusercontent.com/collectivecloudperu/integrar_vuejs26_rubyonrails6/main/img/mm.png",
       "fecha":"2018-08-11 16:25:45"
    }
 ]
