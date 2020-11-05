@@ -8,8 +8,10 @@
 import Vue from 'vue'
 import App from '../app.vue'
 
+// Creamos una variable global 'axios' 
 window.axios = require('axios');
 
+// Creamos una propiedad global para axios 
 Vue.prototype.$axios = axios
 
 document.addEventListener('DOMContentLoaded', () => {
